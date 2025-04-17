@@ -1,2 +1,2 @@
 # FabFlix Web Application
-[FabFlix Web App Demo](https://link-url-here.org)
+![FabFlix Web App Demo](https://fabflix-demo.gif)
